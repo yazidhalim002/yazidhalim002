@@ -1,6 +1,6 @@
 # 💫 About Me:
-💻️ I’m currently working on an android app using flutter<br>🤔 i'm looking for help with automation testing<br>🔭 I’m currently learning how to design and rebuild apps from 0<br>💬 ask me about android apps developing with flutter<br>⚡ Fun fact - I am lazy but curious, smart, i ask a lot
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+💻️ I’m currently working on an android app using flutter<br>🤔 i'm looking for help with automation testing<br>🔭 I’m currently learning how to design and rebuild apps from 0<br>💬 ask me about android apps developing with flutter<br>⚡ Fun fact - I am lazy but curious, smart, i ask a lot
 
 
 ## 🌐 Socials:
